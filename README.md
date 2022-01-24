@@ -2,3 +2,5 @@
 
 Commands used :
 - meteor installation : `meteor create --blaze template`
+- `meteor remove autopublish`
+- `meteor remove insecure`
