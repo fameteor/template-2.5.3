@@ -7,7 +7,7 @@ Commands used :
 
 A installer : 
 - bootstrap 5
-- fontawesome 5
+- fontawesome 5 `meteor npm install --save @fortawesome/fontawesome-free`
 - `meteor npm install simpl-schema`
 - `meteor add meteor add aldeed:autoform`
 - `meteor add discomania:autoform-bootstrap5`
