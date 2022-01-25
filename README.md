@@ -5,7 +5,7 @@ Commands used :
 - `meteor remove autopublish`
 - `meteor remove insecure`
 
-A installer : 
+# A installer : 
 - bootstrap 5
 - fontawesome 5 `meteor npm install --save @fortawesome/fontawesome-free`
 - `meteor npm install simpl-schema`
@@ -14,3 +14,6 @@ A installer :
 - aucount password
 - account password UI supporting I18n
 - I18n `meteor add ostrio:i18n`
+
+# doc
+- https://github.com/meteor-useraccounts/core/blob/master/Guide.md
