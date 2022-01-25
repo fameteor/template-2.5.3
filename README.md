@@ -13,4 +13,4 @@ A installer :
 - `meteor add discomania:autoform-bootstrap5`
 - aucount password
 - account password UI supporting I18n
-- I18n
+- I18n `meteor add ostrio:i18n`
