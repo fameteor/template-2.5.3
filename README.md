@@ -4,3 +4,10 @@ Commands used :
 - meteor installation : `meteor create --blaze template`
 - `meteor remove autopublish`
 - `meteor remove insecure`
+
+A installer : 
+- bootstrap 5
+- fontawesome 5
+- `meteor npm install simpl-schema`
+- `meteor add meteor add aldeed:autoform`
+- `meteor add discomania:autoform-bootstrap5`
