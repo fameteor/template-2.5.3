@@ -11,3 +11,6 @@ A installer :
 - `meteor npm install simpl-schema`
 - `meteor add meteor add aldeed:autoform`
 - `meteor add discomania:autoform-bootstrap5`
+- aucount password
+- account password UI supporting I18n
+- I18n
