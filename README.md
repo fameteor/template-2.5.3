@@ -18,3 +18,4 @@ Commands used :
 
 # doc
 - https://github.com/meteor-useraccounts/core/blob/master/Guide.md
+- https://github.com/arillo/meteor-flow-router-helpers
